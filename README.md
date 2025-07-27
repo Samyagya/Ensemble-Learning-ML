@@ -47,4 +47,5 @@ Improves ensemble performance by using a diverse set of base models:
     - **Precision**
     - **Recall**
     - **F1-score**
+  
 Finally these results are clearly depicted using graphs and tables. Plots are made using matplotlib.py.
